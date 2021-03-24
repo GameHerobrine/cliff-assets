@@ -19,8 +19,6 @@ farlander
 zephaniahnoah
 homomorphism
 gameherobrine
-typical
-mine_diver
 gameherobrine2
 gameherobrine3
 gameherobrine4
@@ -29,3 +27,6 @@ gameherobrine6
 gameherobrine7
 gameherobrine8
 gameherobrine9
+typical
+mine_diver
+
